@@ -18,10 +18,7 @@ Still Gathering Statistics...
 [powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
 
 </td>
-<td valign="top" width="50%">
 
-
-</td>
 </tr>
 </table>
 
