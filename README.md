@@ -1,4 +1,4 @@
-[![](https://count.getloli.com/get/@github.readme)](https://count.getloli.com/)
+[![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)
 
 #### Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
