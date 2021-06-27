@@ -8,7 +8,7 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/e7f0f3b2022a53122eb0f44d44a1287b" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/neardws/e7f0f3b2022a53122eb0f44d44a1287b" target="_blank">📊 每周工作报告</a>
 ```text
 Still Gathering Statistics...
 ```
