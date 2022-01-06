@@ -21,7 +21,7 @@ Still Gathering Statistics...
 </tr>
 </table>
 
-[![Neardws's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neardws)](https://github.com/neardws/github-readme-stats)
+[![Neardws's GitHub stats](https://github-readme-stats.vercel.app/api?username=neardws)](https://github.com/neardws/github-readme-stats)
 
 <!--
 **journey-ad/journey-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
