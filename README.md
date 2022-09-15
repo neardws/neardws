@@ -1,5 +1,4 @@
-# Hi!
-## U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor since 10 Aug 2020
+# Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor since 10 Aug 2020
 
 I am currently pursuing the Ph.D. degree, advised by [Kai Liu (刘凯)](http://www.cs.cqu.edu.cn/info/1274/6812.htm) in computer science at [Chongqing University](http://www.cs.cqu.edu.cn), Chongqing, China. My research interests include vehicular networks, edge computing, and deep reinforcement learning. I have published more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
