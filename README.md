@@ -1,15 +1,16 @@
-## Hi, you are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor since 10 Aug 2020
+# Hi!
+## U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor since 10 Aug 2020
 
 I am currently pursuing the Ph.D. degree, advised by [Kai Liu (刘凯)](http://www.cs.cqu.edu.cn/info/1274/6812.htm) in computer science at [Chongqing University](http://www.cs.cqu.edu.cn), Chongqing, China. My research interests include vehicular networks, edge computing, and deep reinforcement learning. I have published more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
-# 🔥 News
+## 🔥 News
 
 - *2022.09*: One invention patent is granted!
 - *2022.06*: One paper is accepted by ITSC 2022!
 
-# 🕒 Recent Research 
+## 🕒 Recent Research 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCPS</div><img src='images/VCPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCPS</div><img src='image/VCPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent Deep Reinforcement Learning Approach\\
@@ -24,7 +25,7 @@ Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NOMA-based VEC</div><img src='images/NOMA_based_VEC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NOMA-based VEC</div><img src='image/NOMA_based_VEC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Joint Task Offloading and Resource Optimization in NOMA-based Vehicular Edge Computing: A Game-Theoretic DRL Approach\\
@@ -40,7 +41,7 @@ Zhan, and Songtao Guo
 </div>
 
 
-# 💻 Publications
+## 📖 Publications
 
 #### Journal
 
@@ -62,5 +63,7 @@ Zhan, and Songtao Guo
 
 - [Channel Allocation Method for Vehicle Edge Computing Based on Potential Game](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200994), **Xincao Xu**, Kai Liu, Chunhui Liu, Hao Jiang, Songtao Guo and Weiwei Wu, *Chinese Journal of Electronics*, volume 49, issue 5, pp.851-860, July, 2021. [CCF A] [![](https://img.shields.io/github/stars/neardws/Incentive-based-Probability-Update-and-Strategy-Selection?style=social)](https://github.com/neardws/Incentive-based-Probability-Update-and-Strategy-Selection)
 - Potenial Game based Distributed Channel Allocation in Vehicular Fog Computing Environments, **Xincao Xu**, Yi Zhou, Kai Liu, Chaocen Xiang, Yantao Li and Songtao Guo, 14th China Conference on Internet of Things (*CWSN’20*), Dunhuang, China, September, 18-21, 2020. (Best Paper Candidate)
+
+## 💻 Codeing
 
 [![Neardws's GitHub stats](https://github-readme-stats.vercel.app/api?username=neardws&show_icons=true&theme=graywhite)](https://github.com/neardws/github-readme-stats)
