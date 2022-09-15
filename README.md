@@ -11,7 +11,7 @@ I am currently pursuing the Ph.D. degree, advised by Prof. [Kai Liu (刘凯)](ht
 
 ## 🕒 Recent Research 
 
-<div><img src='image/VCPS.png' alt="sym" width="50%" align=”center”></div>
+<div><img src='image/VCPS.png' alt="sym" width="50%" class="center"></div>
 
 Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent Deep Reinforcement Learning Approach\\
 **Xincao Xu**, Kai Liu, Penglin Dai, Ruitao Xie, and Jiangtao Luo
@@ -22,7 +22,7 @@ Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent 
 - We propose a multiagent DRL solution, where a difference-reward-based credit assignment is designed to divide the system reward into the difference reward for vehicles, reflecting their individual contributions.
 - Submitted to **IEEE Transactions on Intelligent Transportation Systems** (under review)
 
-<div><img src='image/NOMA_based_VEC.png' alt="sym" width="50%" align=”center”></div>
+<div><img src='image/NOMA_based_VEC.png' alt="sym" width="50%" class="center"></div>
 
 Joint Task Offloading and Resource Optimization in NOMA-based Vehicular Edge Computing: A Game-Theoretic DRL Approach\\
 **Xincao Xu**, Kai Liu, Penglin Dai, Feiyu Jin, Hualing Ren, Choujun
