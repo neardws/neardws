@@ -11,8 +11,7 @@ I am currently pursuing the Ph.D. degree, advised by Prof. [Kai Liu (刘凯)](ht
 
 ## 🕒 Recent Research 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCPS</div><img src='image/VCPS.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div><img src='image/VCPS.png' alt="sym" width="50%" align=”left”>></div>
 
 Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent Deep Reinforcement Learning Approach\\
 **Xincao Xu**, Kai Liu, Penglin Dai, Ruitao Xie, and Jiangtao Luo
@@ -23,11 +22,7 @@ Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent 
 - We propose a multiagent DRL solution, where a difference-reward-based credit assignment is designed to divide the system reward into the difference reward for vehicles, reflecting their individual contributions.
 - Submitted to **IEEE Transactions on Intelligent Transportation Systems** (under review)
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NOMA-based VEC</div><img src='image/NOMA_based_VEC.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div><img src='image/NOMA_based_VEC.png' alt="sym" width="50%" align=”left”></div>
 
 Joint Task Offloading and Resource Optimization in NOMA-based Vehicular Edge Computing: A Game-Theoretic DRL Approach\\
 **Xincao Xu**, Kai Liu, Penglin Dai, Feiyu Jin, Hualing Ren, Choujun
@@ -37,10 +32,6 @@ Zhan, and Songtao Guo
 - We derive a V2I transmission model by considering both intra-edge and inter-edge interference and formulate a cooperative resource optimization (CRO) problem by jointly optimizing the task offloading and resource allocation, aiming at maximizing the service ratio.
 - We decompose the CRO into two subproblems: 1) task offloading, it is modeled as an EPG, and a MAD4PG is proposed to achieve the Nash equilibrium by adopting the potential function as reward function; and 2) resource allocation, it is modeled as convex optimization problems to allocate communication/computation resources, and an optimal mathematical solution is proposed based on a gradient-based iterative method and KKT condition.
 - Submitted to **Journal of Systems Architecture** (under review)
-
-</div>
-</div>
-
 
 ## 📖 Publications
 
