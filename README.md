@@ -13,7 +13,8 @@ I am currently pursuing the Ph.D. degree, advised by Prof. [Kai Liu (刘凯)](ht
 
 <div><img src='image/VCPS.png' alt="sym" width="50%" class="center"></div>
 
-[Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent Deep Reinforcement Learning Approach](https://arxiv.org/abs/2209.12265) \\
+[Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent Deep Reinforcement Learning Approach](https://arxiv.org/abs/2209.12265)
+
 **Xincao Xu**, Kai Liu, Penglin Dai, Ruitao Xie, and Jiangtao Luo
 
 - We present a VEC architecture, in which heterogeneous information can be cooperatively sensed and uploaded via V2I communications. Logical views can be constructed by fusing the heterogeneous information at edge nodes. 
@@ -24,9 +25,9 @@ I am currently pursuing the Ph.D. degree, advised by Prof. [Kai Liu (刘凯)](ht
 
 <div><img src='image/NOMA_based_VEC.png' alt="sym" width="50%" class="center"></div>
 
-[Joint Task Offloading and Resource Optimization in NOMA-based Vehicular Edge Computing: A Game-Theoretic DRL Approach](https://arxiv.org/abs/2209.12749) \\
-**Xincao Xu**, Kai Liu, Penglin Dai, Feiyu Jin, Hualing Ren, Choujun
-Zhan, and Songtao Guo
+[Joint Task Offloading and Resource Optimization in NOMA-based Vehicular Edge Computing: A Game-Theoretic DRL Approach](https://arxiv.org/abs/2209.12749)
+
+**Xincao Xu**, Kai Liu, Penglin Dai, Feiyu Jin, Hualing Ren, Choujun Zhan, and Songtao Guo
 
 - We present a NOMA-based VEC architecture, where heterogeneous resources of edge nodes are cooperated for real-time task processing.
 - We derive a V2I transmission model by considering both intra-edge and inter-edge interference and formulate a cooperative resource optimization (CRO) problem by jointly optimizing real-time task offloading and heterogeneous resource allocation, aiming at maximizing the service ratio.
