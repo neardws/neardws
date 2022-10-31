@@ -14,7 +14,7 @@ I am currently pursuing the Ph.D. degree, advised by [Prof. Kai Liu](http://www.
 ## 🕒 Recent Research 
 
 
-<div><img src='images/DT_VEC.png' alt="DT-VEC" width="50%" class="center"></div>
+<div><img src='image/DT_VEC.png' alt="DT-VEC" width="50%" class="center"></div>
 
 [Enabling Digital Twin in Vehicular Edge Computing: A Multi-Agent Multi-Objective Deep Reinforcement Learning Solution]()       
 **Xincao Xu**, Kai Liu, Penglin Dai, and Biwen Chen
