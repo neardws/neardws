@@ -75,4 +75,11 @@ I am currently pursuing the Ph.D. degree, advised by [Prof. Kai Liu](http://www.
 
 [![Neardws's GitHub stats](https://github-readme-stats.vercel.app/api?username=neardws&show_icons=true&theme=graywhite)](https://github.com/neardws/github-readme-stats)
 <!-- waka-box start -->
+📊 每周工作报告
+```text
+C++    🕓 5h27m █████████████████████████████░░░ 91.0%
+Python 🕓 32m   ██▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.0%
+Other  🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
