@@ -1,6 +1,8 @@
 # Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor since 10 Aug 2020
 
-I am currently pursuing the Ph.D. degree, advised by [Prof. Kai Liu](http://www.bdsc.site/team-page/193.html) in Computer Science at [Chongqing University](http://english.cqu.edu.cn), China. My research interests include vehicular networks, edge computing, and deep reinforcement learning. I have published more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+I am currently pursuing the Ph.D. degree in Computer Science at Chongqing University, China.    
+My research interests include vehicular networks, edge computing, and deep reinforcement learning.     
+I have published more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 <!-- [CV](https://github.com/neardws/neardws/blob/master/docs/CV_XincaoXu.pdf) [简历](https://github.com/neardws/neardws/blob/master/docs/CV_XincaoXu_ZH.pdf)
  -->
