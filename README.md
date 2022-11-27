@@ -2,7 +2,7 @@
 
 I am currently pursuing the Ph.D. degree in Computer Science at Chongqing University, China.    
 My research interests include vehicular networks, edge computing, and deep reinforcement learning.     
-I have published more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+I have authored and co-authored more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 <!-- [CV](https://github.com/neardws/neardws/blob/master/docs/CV_XincaoXu.pdf) [简历](https://github.com/neardws/neardws/blob/master/docs/CV_XincaoXu_ZH.pdf)
  -->
