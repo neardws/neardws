@@ -80,7 +80,7 @@ I have authored and co-authored more than 10 papers with total google scholar <a
 
 ## 💻 Codeing
 
-[![Neardws's GitHub stats](https://github-readme-stats.vercel.app/api?username=neardws&show_icons=true&theme=graywhite)](https://github.com/neardws/github-readme-stats)
+[![Neardws's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neardws&show_icons=true&theme=graywhite)](https://github.com/neardws/github-readme-stats)
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
