@@ -8,6 +8,7 @@ I have authored and co-authored more than 10 papers with total google scholar <a
  -->
 ## 🔥 News
 
+- *2023.04*: My GitHub stars have reached 100!
 - *2022.10*: 🎉🎉 One paper is accepted by JSA!
 - *2022.10*: 🎉🎉 My google scholar citations have reached 100!
 - *2022.09*: One invention patent is granted!
