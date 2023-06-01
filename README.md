@@ -85,8 +85,7 @@ I have authored and co-authored more than 10 papers with total google scholar <a
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Python 🕓 52m █████████████████████████████████▌ 98.6%
-sh     🕓 0s  ▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.4%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
