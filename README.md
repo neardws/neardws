@@ -79,7 +79,7 @@ I have authored and co-authored more than 10 papers with total google scholar <a
 - **Xincao Xu**, Kai Liu<sup>**\***</sup>, Chunhui Liu, Hao Jiang, Songtao Guo and Weiwei Wu, [Potential Game Based Channel Allocation for Vehicular Edge Computing](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200994), *Tien Tzu Hsueh Pao/Acta Electronica Sinica*, volume 49, issue 5, pp.851-860, July 2021. [CCF T1] [![](https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data.json&query=$['publications']['DK5avZUAAAAJ:fQNAKQ3IYiAC']['num_citations']&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DK5avZUAAAAJ&citation_for_view=DK5avZUAAAAJ:fQNAKQ3IYiAC) [![](https://img.shields.io/github/stars/neardws/Incentive-based-Probability-Update-and-Strategy-Selection?style=social)](https://github.com/neardws/Incentive-based-Probability-Update-and-Strategy-Selection)
 - **Xincao Xu**, Yi Zhou, Kai Liu, Chaocen Xiang, Yantao Li and Songtao Guo, Potenial Game based Distributed Channel Allocation in Vehicular Fog Computing Environments, 14th China Conference on Internet of Things (*CWSN’20*), Dunhuang, China, September 18-21, 2020. (Best Paper Candidate)
 
-## 💻 Codeing
+## 💻 Coding
 
 [![Neardws's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neardws&show_icons=true&theme=graywhite)](https://github.com/neardws/github-readme-stats)
 <!-- waka-box start -->
