@@ -1,4 +1,4 @@
-# Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor since 10 Aug 2020
+# Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor
 
 I am currently pursuing the Ph.D. degree in Computer Science at Chongqing University, China.    
 My research interests include vehicular networks, edge computing, and deep reinforcement learning.     
