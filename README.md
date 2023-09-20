@@ -1,8 +1,13 @@
 # Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor
 
-I am currently pursuing the Ph.D. degree in Computer Science at Chongqing University, China.    
-My research interests include vehicular networks, edge computing, and deep reinforcement learning.     
-I have authored and co-authored more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+I am currently a Postdoctoral Research Fellow in cooperation with [Prof. Shaohua Wan](https://scholar.google.com/citations?user=IhjhNEEAAAAJ&hl=en) at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn)), Shenzhen, China. I received the Ph.D. degree in Computer Science from the College of Computer Science at the Chongqing University ([CQU](https://www.cqu.edu.cn)), Chongqing, China, in 2023 and the B.S. degree in Network Engineering from the School of Computer and Control Engineering at the North University of China ([NUC](https://www.nuc.edu.cn)), Taiyuan, China, in 2017. I have authored and co-authored more than 10 papers with total google scholar <a href='https://scholar.google.com/citations?user=DK5avZUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.     
+
+My research interests include: 
+- Vehicular Networks
+- Vehicular Cyber-Physical Systems
+- Edge Computing
+- Deep Reinforcement Learning
+- Game Theory
 
 <!-- [CV](https://github.com/neardws/neardws/blob/master/docs/CV_XincaoXu.pdf) [简历](https://github.com/neardws/neardws/blob/master/docs/CV_XincaoXu_ZH.pdf)
  -->
