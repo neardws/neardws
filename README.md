@@ -90,7 +90,8 @@ My research interests include:
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Still Gathering Statistics...
+Other  🕓 2h39m ███████████████████████████░░░░░ 84.5%
+Python 🕓 29m   ████▉░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.5%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
